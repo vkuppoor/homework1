@@ -18,7 +18,7 @@ In Git, merge and rebase are two different ways to integrate changes from one br
 
 What is a remote repository? 
 
-<Answer the question here>
+A remote repository in Git is a copy of a project's codebase stored on a separate server. It allows multiple developers to collaborate on the project and keep their local copies in sync with the latest changes made by other team members.
 
 9. Switch back to "main" and merge the main branch with the progress branch such that both your answers are in order in answers.txt
 12. Submit a link to your github project.
