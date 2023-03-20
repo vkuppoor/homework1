@@ -11,14 +11,8 @@ You can follow the steps below, but please note that a number of them have been 
 
 What is the difference between a merge and a rebase?
 
-In Git, merge and rebase are two different ways to integrate changes from one branch into another. A merge creates a new commit that combines the changes from two or more branches, while a rebase rewrites the history of the branch being rebased. Merge preserves the history of both branches, while rebase creates a cleaner, linear history, but can be more complex and requires more attention.
-
 7. Create a branch called "progress" and switch to it.
 8. Paste the following into "answers.txt" and answer the question.
-
-What is a remote repository? 
-
-A remote repository in Git is a copy of a project's codebase stored on a separate server. It allows multiple developers to collaborate on the project and keep their local copies in sync with the latest changes made by other team members.
 
 9. Switch back to "main" and merge the main branch with the progress branch such that both your answers are in order in answers.txt
 12. Submit a link to your github project.
